@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch logik3",
+            "request": "launch",
+            "mainClass": "logik3",
+            "projectName": "Föreläsningar_cf0ef3b0"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetTest",
+            "request": "launch",
+            "mainClass": "SetTest",
+            "projectName": "Föreläsningar_cf0ef3b0"
+        },
+        {
+            "type": "java",
+            "name": "Launch PunktTest",
+            "request": "launch",
+            "mainClass": "PunktTest",
+            "projectName": "Föreläsningar_cf0ef3b0"
+        },
+        {
+            "type": "java",
+            "name": "Launch FelHantering",
+            "request": "launch",
+            "mainClass": "FelHantering",
+            "projectName": "Föreläsningar_cf0ef3b0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vector1",
+            "request": "launch",
+            "mainClass": "Vector1",
+            "projectName": "Föreläsningar_cf0ef3b0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vector",
+            "request": "launch",
+            "mainClass": "Vector",
+            "projectName": "Föreläsningar_cf0ef3b0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "Föreläsningar_cf0ef3b0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo2",
+            "request": "launch",
+            "mainClass": "Demo2",
+            "projectName": "Föreläsningar_cf0ef3b0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Name",
+            "request": "launch",
+            "mainClass": "Name",
+            "projectName": "Föreläsningar_cf0ef3b0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Föreläsningar_cf0ef3b0"
+        }
+    ]
+}
